@@ -1,2 +1,2 @@
-# data-science-carnival
+# ds-carnival
 data science coursework
